@@ -1,0 +1,20 @@
+@import "../../../../style/project/base/appt.wxss";
+@import "../../skin/skin.wxss"; 
+@import "../../../../style/project/news_index_base.wxss";  
+ 
+page {
+	background-color: #3D3D3D;
+}
+
+
+.text-project {
+	color: var(--projectCompareColor) !important;
+}
+
+.shadow-project {
+	box-shadow: 0 5rpx 13rpx rgba(0, 0, 0, 1);
+}
+
+.text-pic-list-box {
+	margin-top: 20rpx;
+}
